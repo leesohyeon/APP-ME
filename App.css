@@ -2,7 +2,7 @@
 @import "https://fonts.google.com/specimen/Raleway?fbclid=IwAR2FisFUlxPR3gvJyhRkk598M_lIJfT83CmsqqHDtQlOXF7QDELfDKiqFaI";
 body{
     margin: 0;
-    font-family:'Nanum Gothic';
+      font-family:'Noto Sans';
 }
 html body {
     width: 100%;
